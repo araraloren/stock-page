@@ -1,0 +1,2 @@
+# stock-page
+Stock pages
